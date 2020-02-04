@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X3vMOtLSgKwOBMtaZ2vOTOCrqA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Телефонная книга\j\10 Работа с MySQL в Java\дз2 hibernate\src\main\resources" />
+      <recent name="E:\Телефонная книга\j\10 Работа с MySQL в Java\дз2 hibernate" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="hibernate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="" />
+      <created>1580287543792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580287543792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1580306434088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580306434088" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580307213338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580307213338" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1580376299491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580376299491" />
+    <state width="1306" height="469" key="GridCell.Tab.0.bottom" timestamp="1580793675158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580793675158" />
+    <state width="1306" height="469" key="GridCell.Tab.0.center" timestamp="1580793675158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580793675158" />
+    <state width="1306" height="469" key="GridCell.Tab.0.left" timestamp="1580793675157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580793675157" />
+    <state width="1306" height="469" key="GridCell.Tab.0.right" timestamp="1580793675158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580793675158" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1580288312202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580288312202" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1580376249852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580376249852" />
+  </component>
+</project>
