@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="" />
+    <list default="true" id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/hibernate.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,8 +40,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +53,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="hibernate" />
+      <module name="hibernate-course-student" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +90,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="409" y="31" key="#Main" timestamp="1580794139037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="31" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1580794139037" />
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1580306434088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -110,13 +122,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1306" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580793675158" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1580288312202">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1580794172595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580288312202" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1580376249852">
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580794172595" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1580794328817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580376249852" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580794328817" />
   </component>
 </project>
